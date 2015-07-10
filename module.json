@@ -5,6 +5,7 @@
     "keywords": [],
     "active": 1,
     "order": 0,
+    "type":"theme",
     "providers": [
         "YC\\Theme2015\\Providers\\Theme2015ServiceProvider"
     ],
